@@ -17,7 +17,7 @@
 ### My stats are... 🌟<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minahshin&count_private=true&hide=stars,contribs&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahshin&layout=compact) &nbsp;&nbsp;&nbsp;
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minah741)
+<a href="https://solved.ac/minah741"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minah741" width=300px/></a>
 
 ### My experiences are... 📑
 |Duration|Company&Organization|Project|Explanation|
