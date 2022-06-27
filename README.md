@@ -25,4 +25,4 @@
 |2018.07 ~ 2019.02|Hancom MDS|Toki's Chatbot Server|Home service robot's Korean chatbot server|
 |2019.04 ~ 2019.06|<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>|Music Server|VIBE promotion page & server|
 |2021.11 ~ |EopuEopu|[Server : will be revealed 🔜](https://github.com/EopuEopu/frenda-server/tree/master)|🌠 Very special diary application 🌠|
-|2022.01 ~ |SSAFY||Studying Java|
+|2022.01 ~ |SSAFY|[HappyHouse](https://github.com/minahshin/HappyHouse_project.git)|Studying Java|
