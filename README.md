@@ -4,9 +4,8 @@
 
 ## Who I am... 👩‍🏭
 ### Hi 🙋‍♀️ I am Minah Shin!
-- My preferred position is **Backend Developer** <br>
-- I did my projects usually using **Spring Framework & MySQL** ☕ <br>
-- Also, I am interested in Chatbot Service 🤖 & Microservice Architecture 🐋
+My preferred position is **Backend Developer** <br>
+[>> Resume & Notion <<](https://url.kr/x7tn59)
 
 ### My skills are... 💻
 - Languages & Frameworks<br>
