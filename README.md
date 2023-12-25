@@ -26,3 +26,4 @@ My preferred position is **Backend Developer** <br>
 |2019.04 ~ 2019.06|<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>|Music Server|VIBE promotion page & server|
 |2021.11 ~ |EopuEopu|[FRENDA](https://github.com/EopuEopu/frenda-server/tree/master)|🌠 Very special diary application 🌠|
 |2022.01 ~ 2022.12|SSAFY|[HappyHouse](https://github.com/minahshin/HappyHouse_project.git) <br> [U R IN](https://github.com/hrookim/U-R-IN.git) <br>[사락](https://github.com/ryan8753/SARAC)<br>[Meeplo](https://github.com/MEEPLO/MEEPLO)|Studying Backend & DevOps|
+|2023.01 ~ |Saltlux|[SearchStudio](https://www.saltlux.com/en/product/search/)|Search engine for business|
