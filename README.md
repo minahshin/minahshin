@@ -5,7 +5,7 @@
 ## Who I am... 👩‍🏭
 ### Hi 🙋‍♀️ I am Minah Shin!
 My preferred position is **Backend Developer** <br>
-[>> Resume & Notion <<](https://url.kr/x7tn59)
+[>> Resume & Notion <<](https://minah741.notion.site)
 
 ### My skills are... 💻
 - Languages & Frameworks<br>
