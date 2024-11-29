@@ -27,4 +27,4 @@ My preferred position is **Backend Developer** <br>
 |2022.01 ~ 2022.12|SSAFY|[HappyHouse](https://github.com/minahshin/HappyHouse_project.git) <br> [U R IN](https://github.com/hrookim/U-R-IN.git) <br>[사락](https://github.com/ryan8753/SARAC)<br>[Meeplo](https://github.com/MEEPLO/MEEPLO)|Studying Backend & DevOps|
 |2023.01 ~ 2024.07|Saltlux|[SearchStudio](https://www.saltlux.com/en/product/search/)|Search engine for business|
 |2024.07 ~ 2024.11|Team Sparta|Java-Spring for Backend Track, 6th|Tutor of Backend Development Bootcamp|
-|2024.11 ~ |Wavve Americas|KOCOWA|TBD|
+|2024.11 ~ |Wavve Americas|KOCOWA|OTT that serves Korean contents to overseas|
